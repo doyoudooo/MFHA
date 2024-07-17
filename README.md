@@ -64,13 +64,4 @@ The performance of SGA on four VLP models (ALBEF, TCL, CLIP<sub>ViT</sub> and CL
 
 ### Citation
 Kindly include a reference to this paper in your publications if it helps your research:
-```
-@misc{lu2023setlevel,
-    title={Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models},
-    author={Dong Lu and Zhiqiang Wang and Teng Wang and Weili Guan and Hongchang Gao and Feng Zheng},
-    year={2023},
-    eprint={2307.14061},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-}
-```
+
